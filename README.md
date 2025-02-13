@@ -52,8 +52,8 @@ This project utilizes the following technologies:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/e-commerce-store.git
-cd e-commerce-store
+git clone https://github.com/Divyanshu1121/E-Commerce.git
+cd E-commerce
 ```
 
 ### 2️⃣ Install dependencies
